@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lucy
+- 👋 Hi, I’m Lucya
 
 
 - I am an ethusiastic Software Developer from Nairobi-Kenya
