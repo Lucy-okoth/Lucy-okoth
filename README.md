@@ -1,15 +1,13 @@
-- 👋 Hi, I’m Lucya
+👋 Hi, I’m Lucya, an enthusiastic Software Developer from Nairobi, Kenya 🇰🇪
 
+🌱 Currently honing my skills in TypeScript and delving into the world of Ruby
 
-- I am an ethusiastic Software Developer from Nairobi-Kenya
+💼 Working on exciting projects to expand my developer toolkit and dive deeper into data analysis with R language
 
-- I am currently working on my developer skills and something awesome
+💞️ Ask me anything about CSS, HTML, JavaScript, Ruby, or starting conversations about the latest tech trends!
 
-- 🌱 I’m currently learning Typscript/Ruby
+📫 Reach out to me at lucyakokoth@gmail.com
 
-- 💞️ Ask me anything in CSS,HTML,JAVASCRIPT,RUBY 
-
-- 📫 How to reach me lucyakokoth@gmail.com
-
-connect with me 
-
+🔗 Connect with me:
+   - LinkedIn: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/lucy-okoth-33564a238/)]
+  
