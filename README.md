@@ -9,5 +9,5 @@
 📫 Reach out to me at lucyakokoth@gmail.com
 
 🔗 Connect with me:
-   - LinkedIn: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/lucy-okoth-33564a238/)]
+   - LinkedIn: (https://www.linkedin.com/in/lucy-okoth-33564a238/)]
   
