@@ -1,6 +1,6 @@
 👋 Hi, I’m Lucya, an enthusiastic Software Developer from Nairobi, Kenya 🇰🇪
 
-🌱 Currently honing my skills in TypeScript and delving into the world of Ruby
+🌱 Currently honing my skills in R/Python and delving into the world of Ruby
 
 💼 Working on exciting projects to expand my developer toolkit and dive deeper into data analysis with R language
 
