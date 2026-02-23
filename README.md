@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="git.jpg" alt="Lucya Banner" />
+  <!-- <img src="git.jpg" alt="Lucya Banner" /> -->
 </p>
 
 <h1 align="center">👩🏽‍💻 Hi, I'm Lucya Okoth 🌸</h1>
