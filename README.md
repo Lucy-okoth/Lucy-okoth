@@ -19,7 +19,7 @@ I build intelligent web platforms that transform complex data into interactive, 
 📊 I enjoy building predictive and risk systems  
 🎨 I care deeply about clean UI + scalable architecture  
 
-Soft energy. Strong systems. ✨
+
 
 ---
 
@@ -78,4 +78,3 @@ Soft energy. Strong systems. ✨
 
 ---
 
-✨ Building maps, models & meaningful tech 🌍
