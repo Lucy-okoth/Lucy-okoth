@@ -1,73 +1,45 @@
 <p align="center">
-  <!-- <img src="git.jpg" alt="Lucya Banner" /> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lucya%20Okoth&fontSize=70&animation=fadeIn" />
 </p>
 
-<h1 align="center">👩🏽‍💻 Hi, I'm Lucya Okoth 🌸</h1>
+<h1 align="center">👩🏽‍💻 Geospatial Software Engineer 🌸</h1>
 
 <p align="center">
-✨ Geospatial Software Engineer | Data + Maps Enthusiast ✨ <br/>
-📍 Nairobi, Kenya 🇰🇪
+  <a href="https://linkedin.com/in/lucy-okoth-33564a238/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lucyakokoth@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
----
-## 🌸 About Me
-
-I build intelligent web platforms that transform complex data into interactive, beautiful digital experiences.
-
-🗺️ I love working with spatial data  
-📊 I enjoy building predictive and risk systems  
-🎨 I care deeply about clean UI + scalable architecture  
----
-
-## 🛠 Tech Stack
-
-### 👑 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🧠 Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### 🌍 Data & GIS
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=databricks&logoColor=white)
-![GeoServer](https://img.shields.io/badge/GeoServer-2E7D32?style=for-the-badge)
-![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 ---
 
-## 🌱 Currently Growing In
+### 🗺️ Mapping the Digital World from Nairobi, Kenya
+I bridge the gap between **complex spatial data** and **intuitive user interfaces**. I specialize in building predictive risk systems and interactive map platforms that make data move.
 
-- R for predictive modeling 📈  
-- Python (Flask & data workflows) 🐍  
-- Ruby on Rails 💎  
+- 🔭 **Current Focus:** Building scalable GIS architectures with Spring Boot & PostGIS.
+- 📈 **Learning:** Advanced predictive modeling with R and Python workflows.
+- 🎨 **Philosophy:** Clean UI is just as important as clean data.
 
 ---
 
-## 📊 GitHub Stats
+### 🛠 My Toolbox
 
+| Category | Tools |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next JS](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white) ![Node](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) |
+| **Geo-Data** | ![PostGIS](https://img.shields.io/badge/-PostGIS-4169E1?logo=postgresql&logoColor=white) ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?logo=leaflet&logoColor=white) ![OpenLayers](https://img.shields.io/badge/-OpenLayers-1F6B75?logo=openlayers&logoColor=white) |
+
+---
+
+### 📊 Contribution & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucy-okoth&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucy-okoth&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucy-okoth&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucy-okoth&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucy-okoth&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
-## 💞 Let’s Connect
-
-📧 lucyakokoth@gmail.com  
-🔗 www.linkedin.com/in/lucy-okoth-33564a238/  
-💻 github.com/Lucy-okoth  
-
----
-
