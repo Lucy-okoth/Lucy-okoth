@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" alt="Lucya Banner" />
+  <img src="https://ca.pinterest.com/pin/14284923812498493/" alt="Lucya Banner" />
 </p>
 
 <h1 align="center">👩🏽‍💻 Hi, I'm Lucya Okoth 🌸</h1>
