@@ -8,9 +8,7 @@
 ✨ Geospatial Software Engineer | Data + Maps Enthusiast ✨ <br/>
 📍 Nairobi, Kenya 🇰🇪
 </p>
-
 ---
-
 ## 🌸 About Me
 
 I build intelligent web platforms that transform complex data into interactive, beautiful digital experiences.
@@ -18,9 +16,6 @@ I build intelligent web platforms that transform complex data into interactive, 
 🗺️ I love working with spatial data  
 📊 I enjoy building predictive and risk systems  
 🎨 I care deeply about clean UI + scalable architecture  
-
-
-
 ---
 
 ## 🛠 Tech Stack
@@ -67,9 +62,7 @@ I build intelligent web platforms that transform complex data into interactive, 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucy-okoth&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
-
 ## 💞 Let’s Connect
 
 📧 lucyakokoth@gmail.com  
